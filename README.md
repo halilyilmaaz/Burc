@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# BurcRehberi" 
-![Home]()
-![Detail]()
+![Home](https://github.com/halilyilmaaz/Burc/blob/main/images/burc1.jpeg?raw=true)
+![Detail](https://github.com/halilyilmaaz/Burc/blob/main/images/burc.jpeg?raw=true)
